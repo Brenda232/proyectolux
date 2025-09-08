@@ -22,7 +22,7 @@
 
     <!-- Contenido principal -->
     <div class="container mt-5">
-        <h1 class="text-center">Bienvenido a mi página con PHP</h1>
+        <h1 class="text-center">Bienvenido</h1>
         <p class="text-center">
             <?php 
                 echo "Hoy es " . date("d/m/Y") . " y la hora actual es " . date("H:i");
